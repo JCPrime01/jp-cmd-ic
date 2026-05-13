@@ -11,12 +11,11 @@ export default async function handler(req, res) {
     return;
   }
   const links = [
-    "https://chat.whatsapp.com/EoLhmmeiQpGAHQ1yU9CW7A",
-    "https://chat.whatsapp.com/JhDM8UdeHQg8pxIm0ywl80",
-    "https://chat.whatsapp.com/EafpD39fayIIyRjOCC6Pfk",
-    "https://chat.whatsapp.com/BaFz3FnnxTb3Dbd9c3r7Wm",
-    "https://chat.whatsapp.com/IZNGcTD7uuq2M1cfB7FLlR",
-    "https://chat.whatsapp.com/HdxZGcDeTd0KKnLrvjLjHS",
+    "https://chat.whatsapp.com/CfG2GrArd3wLUfp9jXVjoh",
+    "https://chat.whatsapp.com/CWM4CaYO436D1j1cfa0wLs",
+    "https://chat.whatsapp.com/ES23jFs5xIH2zCtwiOFAqw",
+    "https://chat.whatsapp.com/KpU3HcHEhWPIVczRGkSB1T",
+    "https://chat.whatsapp.com/IK8vcibKLZWFELgzFkNko6",
   ];
   const link = links[Math.floor(Math.random() * links.length)];
   res.writeHead(302, { Location: link });
