@@ -40,13 +40,13 @@ export default async function handler(req, res) {
       'https://chat.whatsapp.com/KpU3HcHEhWPIVczRGkSB1T', // 809
       'https://chat.whatsapp.com/C1y1JnkofL3EPwTiGwyVkK', // 810
       'https://chat.whatsapp.com/IK8vcibKLZWFELgzFkNko6', // 811
-      'https://chat.whatsapp.com/BzQOlSYyNLi4M7g9QiTdPk', // 812
+      'https://chat.whatsapp.com/JMQXBZE9G5YDTrL8bySxmb', // 812
     ],
     3: [
-      'https://chat.whatsapp.com/GWKrYamFjvG86drfs3a2lm', // 813
-      'https://chat.whatsapp.com/Ipr55DmUvj0E5TiFXOFl7x', // 814
-      'https://chat.whatsapp.com/KYLdjVa7tGoLA0pZcObRjY', // 816
-      'https://chat.whatsapp.com/DVGTZik6QgR4MpuxWJJj92', // 817
+      'https://chat.whatsapp.com/L06U0lGRpGy7tQId1pyFJn', // 813
+      'https://chat.whatsapp.com/CBzYxjG1ScpBkAVOehvGfP', // 814
+      'https://chat.whatsapp.com/JPDj6z7napWCpAZCuFfFbV', // 816
+      'https://chat.whatsapp.com/K3nyk1SEUqLH5tkhSVnYPB', // 817
     ],
   };
   // ─────────────────────────────────────────────────────────────
