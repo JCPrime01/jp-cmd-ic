@@ -31,14 +31,12 @@ export default async function handler(req, res) {
     1: [
       'https://chat.whatsapp.com/G6ntVSdjHNWBDSol2p5vKX', // 801
       'https://chat.whatsapp.com/LfehR600yFV4SGmtZOCy2F', // 803
-      'https://chat.whatsapp.com/E7gqQqo5w3B4tCP5Ve8mdF', // 804
       'https://chat.whatsapp.com/CfG2GrArd3wLUfp9jXVjoh', // 805
       'https://chat.whatsapp.com/CWM4CaYO436D1j1cfa0wLs', // 807
     ],
     2: [
       'https://chat.whatsapp.com/ES23jFs5xIH2zCtwiOFAqw', // 808
       'https://chat.whatsapp.com/KpU3HcHEhWPIVczRGkSB1T', // 809
-      'https://chat.whatsapp.com/C1y1JnkofL3EPwTiGwyVkK', // 810
       'https://chat.whatsapp.com/IK8vcibKLZWFELgzFkNko6', // 811
       'https://chat.whatsapp.com/JMQXBZE9G5YDTrL8bySxmb', // 812
     ],
